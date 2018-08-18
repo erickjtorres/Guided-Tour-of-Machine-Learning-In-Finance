@@ -8,9 +8,17 @@ This repo contains all the projects that I have completed in the course. If you 
 3. Tobit Regression
 4. FDIC dataset to predict bank defaults
 
+## Requirements
+* Python 3
+* Jupyter Notebooks or Jupyter Labs
+* Tensorflow
+* numpy
+* matplotlib
+* pandas
+
 ## Resources
 
-Here are a list of resources either required for the course or used by myself tosuplement the material in the course:
+Here are a list of resources either required for the course or used by myself to suplement the material in the course:
 
 * https://www.deeplearningbook.org
 * http://shop.oreilly.com/product/0636920052289.do
