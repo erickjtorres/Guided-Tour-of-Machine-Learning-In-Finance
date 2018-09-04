@@ -3,8 +3,12 @@
 This repo contains all the projects that I have completed in the course. If you would like to learn more about the coursera course feel free to contact me or check out the course at https://www.coursera.org/learn/guided-tour-machine-learning-finance/
 
 ## Projects
-1. Calculating Multidimensional Euclidean Distances
-2. Linear Regression
+1. Calculating Multidimensional Euclidean Distances (Completed)
+	- Used numpy to implement Euclidean Distance formula
+	- Compared different methods of Euclidean Ditance implementations
+2. Linear Regression (Completed)
+	- Implemented Linear Regression model using pandas, numpy, scikit-learn, and TensorFlow
+	- Compared different implementations of Linear Regression
 3. Tobit Regression
 4. FDIC dataset to predict bank defaults
 
